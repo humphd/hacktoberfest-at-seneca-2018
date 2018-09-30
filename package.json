@@ -1,0 +1,33 @@
+{
+  "name": "hacktoberfest-at-seneca-2018",
+  "version": "1.0.0",
+  "description": "Open Source students in OSD600 and DPS909 are participating in [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/) for their Release 0.2. This is our tracking repo, welcome!",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humphd/hacktoberfest-at-seneca-2018.git"
+  },
+  "keywords": [
+    "#hacktoberfest",
+    "hacktoberfest-2018",
+    "seneca",
+    "open-source"
+  ],
+  "author": "",
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/humphd/hacktoberfest-at-seneca-2018/issues"
+  },
+  "homepage": "https://github.com/humphd/hacktoberfest-at-seneca-2018#readme",
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "devDependencies": {
+    "husky": "1.0.1",
+    "prettier": "1.14.3",
+    "pretty-quick": "1.7.0"
+  }
+}
