@@ -3,6 +3,8 @@
 The `data/` directory contains various files for tracking and submission of
 student contributions to Hacktoberfest 2018/Release 0.2.
 
+**NOTE: submit Pull Requests for any changes you want to make to the files mentioned below.  Every Pull Request must be reviewed and approved by another student before it can be merged.**
+
 ## people.json
 
 An `Array` of GitHub usernames for students in DPS909 and OSD600
