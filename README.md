@@ -69,6 +69,7 @@ developers directly.
 
 - [Sign up for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 - [Student Submissions wiki page](https://github.com/humphd/hacktoberfest-at-seneca-2018/wiki/Student-Submissions)
+- [Interesting Open Source Projects](https://github.com/humphd/hacktoberfest-at-seneca-2018/wiki/Interesting-Open-Source-Projects)
 - [Hacktoberfest Details](https://hacktoberfest.digitalocean.com/details)
 - [Hacktoberfest FAQ](https://hacktoberfest.digitalocean.com/faq)
 - [Possible Issues to Work On](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
