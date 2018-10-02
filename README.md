@@ -6,13 +6,14 @@ Open Source students in OSD600 and DPS909 are participating in [Hacktoberfest 20
 
 During October 2018, students are required to complete **5 Pull Requests** to open source projects hosted on GitHub. Your final submission is due by October 31, 2018.
 
-All course submissions are done in this repo by adding to existing [JSON files](data/), see the [documentation for the data/ directory](data/). Students must update these files each Monday in October via a Pull Request.
+All course submissions are done in this repo's wiki. Students must update the
+wiki with new Blog, Issue, and/or Pull Request links each Monday in October (see below).
 
-We will track this data in an online dashboard, which we'll also create in this repo, see below for more details.
+### Tracking Issues, Pull Requests, Blog Posts
 
-### Issues
-
-Every GitHub Issue you work on should get recorded in [issues.json](data/issues.json). If you find an Issue you think you can fix, leave a
+Every GitHub Issue and Pull Request you work on should get recorded in
+the [Student Submissions wiki page](https://github.com/humphd/hacktoberfest-at-seneca-2018/wiki/Student-Submissions).
+If you find an Issue you think you can fix, leave a
 comment and let the project know you're interested, asking any questions you
 might have. Pick small bugs to work on so you don't get overwhelmed.
 
@@ -25,11 +26,7 @@ NOTE: you might end up working on more Issues than Pull Requests (e.g., you
 might start one, and decide it's not right for you). That's OK. Be aware
 that only Pull Requests count toward your 5-PRs.
 
-### Pull Requests
-
-Every GitHub Pull Request you attempt recorded in [pull-requests.json](data/pull-requests.json). The Pull Requests don't need to be huge.
-
-Make sure you follow the contribution guidelines of each project, run
+For Pull Requests, make sure you follow the contribution guidelines of each project, run
 tests locally before you submit, follow style guidelines, etc. Be
 professional with your submissions, and put some care into them.
 
@@ -42,10 +39,8 @@ end up with **5 Pull Requests** by the end of October.
 
 ### Blog Posts
 
-Every blog post you write related to your work on Hacktoberfest should
-be recorded in [posts.json](data/posts.json). Talk about the Issues
-and Pull Requests you're working on, the code you're learning, the projects
-you're getting involve with, etc.
+Talk about the Issues and Pull Requests you're working on, the code you're
+learning, the projects you're getting involve with, etc.
 
 Be specific and use links to your work, screenshots, or other material
 to help tell your story. What are you learning? What surprised you?
@@ -70,15 +65,10 @@ You can ask questions in your Issue or Pull Request, and many projects will
 also have a Slack instance, mailing list, etc. where you can talk to the
 developers directly.
 
-## Dashboard
-
-To keep track of our community's progress, and have some fun, we will also
-create a simple web-based dashboard app to visualize our [JSON data](data/).
-If you would like to contribute to the dashboard, see the [CONTRIBUTING docs](CONTRIBUTING.md).
-
 ## Important Links
 
 - [Sign up for Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- [Student Submissions wiki page](https://github.com/humphd/hacktoberfest-at-seneca-2018/wiki/Student-Submissions)
 - [Hacktoberfest Details](https://hacktoberfest.digitalocean.com/details)
 - [Hacktoberfest FAQ](https://hacktoberfest.digitalocean.com/faq)
 - [Possible Issues to Work On](https://github.com/search?q=label:hacktoberfest+state:open+type:issue)
