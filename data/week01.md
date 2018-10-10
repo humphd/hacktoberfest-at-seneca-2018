@@ -1,0 +1,115 @@
+# Hacktoberfest at Seneca: Week 1 Summary
+
+## Pull Requests (62)
+
+- [lk-geimfari/awesomo #125](https://github.com/lk-geimfari/awesomo/pull/125)
+- [jsonmc/jsonmc #557](https://github.com/jsonmc/jsonmc/pull/557)
+- [SwifterSwift/SwifterSwift #578](https://github.com/SwifterSwift/SwifterSwift/pull/578)
+- [lingonsaft/hacktoberfest #707](https://github.com/lingonsaft/hacktoberfest/pull/707)
+- [rgehan/hacktoberfest-2k18-katas #477](https://github.com/rgehan/hacktoberfest-2k18-katas/pull/477)
+- [KamandPrompt/kamandprompt.github.io #50](https://github.com/KamandPrompt/kamandprompt.github.io/pull/50)
+- [Showndarya/Hacktoberfest #489](https://github.com/Showndarya/Hacktoberfest/pull/489)
+- [borgbackup/borg #4105](https://github.com/borgbackup/borg/pull/4105)
+- [gopalgoel19/gopalgoel19.github.io #8](https://github.com/gopalgoel19/gopalgoel19.github.io/pull/8)
+- [sake92/hepek-examples #5](https://github.com/sake92/hepek-examples/pull/5)
+- [filerjs/filer #494](https://github.com/filerjs/filer/pull/494)
+- [filerjs/filer #546](https://github.com/filerjs/filer/pull/546)
+- [KaisuoLu/ShowTune #3](https://github.com/KaisuoLu/ShowTune/pull/3)
+- [bhavinjawade/Web-Image-Editor #3](https://github.com/bhavinjawade/Web-Image-Editor/pull/3)
+- [bhavinjawade/Web-Image-Editor #5](https://github.com/bhavinjawade/Web-Image-Editor/pull/5)
+- [theelous3/asks #88](https://github.com/theelous3/asks/pull/88)
+- [vicky002/AlgoWiki #261](https://github.com/vicky002/AlgoWiki/pull/261)
+- [Openarl/PathOfBuilding #1219](https://github.com/Openarl/PathOfBuilding/pull/1219)
+- [lk-geimfari/awesomo #150](https://github.com/lk-geimfari/awesomo/pull/150)
+- [joshghent/NodeChat #24](https://github.com/joshghent/NodeChat/pull/24)
+- [mozilla-mobile/focus-ios #1416](https://github.com/mozilla-mobile/focus-ios/pull/1416)
+- [mozilla-mobile/focus-ios #1420](https://github.com/mozilla-mobile/focus-ios/pull/1420)
+- [filerjs/filer #543](https://github.com/filerjs/filer/pull/543)
+- [Asiatik/codezilla #274](https://github.com/Asiatik/codezilla/pull/274)
+- [mukulgoyal793/HelloWorld #28](https://github.com/mukulgoyal793/HelloWorld/pull/28)
+- [damcclean/hacktoberfest-finder #25](https://github.com/damcclean/hacktoberfest-finder/pull/25)
+- [adobe/brackets #14559](https://github.com/adobe/brackets/pull/14559)
+- [30-seconds/30-seconds-of-code #767](https://github.com/30-seconds/30-seconds-of-code/pull/767)
+- [30-seconds/30-seconds-of-code #805](https://github.com/30-seconds/30-seconds-of-code/pull/805)
+- [redditdota/subredditcss #5](https://github.com/redditdota/subredditcss/pull/5)
+- [pyrox18/SchedulerBot #5](https://github.com/pyrox18/SchedulerBot/pull/5)
+- [zen-audio-player/zen-audio-player.github.io #296](https://github.com/zen-audio-player/zen-audio-player.github.io/pull/296)
+- [falko-org/Falko #341](https://github.com/falko-org/Falko/pull/341)
+- [TheAlgorithms/Python #412](https://github.com/TheAlgorithms/Python/pull/412)
+- [matterinc/DiveLane #45](https://github.com/matterinc/DiveLane/pull/45)
+- [gmemstr/notdonemywebsite #10](https://github.com/gmemstr/notdonemywebsite/pull/10)
+- [ethereum/solidity #5181](https://github.com/ethereum/solidity/pull/5181)
+- [Showndarya/Hacktoberfest #345](https://github.com/Showndarya/Hacktoberfest/pull/345)
+- [jsonmc/jsonmc #789](https://github.com/jsonmc/jsonmc/pull/789)
+- [rgehan/hacktoberfest-2k18-katas #225](https://github.com/rgehan/hacktoberfest-2k18-katas/pull/225)
+- [rgehan/hacktoberfest-2k18-katas #251](https://github.com/rgehan/hacktoberfest-2k18-katas/pull/251)
+- [rgehan/hacktoberfest-2k18-katas #327](https://github.com/rgehan/hacktoberfest-2k18-katas/pull/327)
+- [rgehan/hacktoberfest-2k18-katas #361](https://github.com/rgehan/hacktoberfest-2k18-katas/pull/361)
+- [hanss314/PyDanmaku #8](https://github.com/hanss314/PyDanmaku/pull/8)
+- [MicrosoftDocs/Virtualization-Documentation #866](https://github.com/MicrosoftDocs/Virtualization-Documentation/pull/866)
+- [TheRedSpy15/Multi-Go #4](https://github.com/TheRedSpy15/Multi-Go/pull/4)
+- [TheRedSpy15/Multi-Go #6](https://github.com/TheRedSpy15/Multi-Go/pull/6)
+- [dereknguyen269/ruby_letters #18](https://github.com/dereknguyen269/ruby_letters/pull/18)
+- [jsonmc/jsonmc #241](https://github.com/jsonmc/jsonmc/pull/241)
+- [Asiatik/codezilla #168](https://github.com/Asiatik/codezilla/pull/168)
+- [avjinder/Minimal-Todo #99](https://github.com/avjinder/Minimal-Todo/pull/99)
+- [jsonmc/jsonmc #829#issue-221542888](https://github.com/jsonmc/jsonmc/pull/829#issue-221542888)
+- [neovim/neovim #9085](https://github.com/neovim/neovim/pull/9085)
+- [piyush97/HelloWorld #58](https://github.com/piyush97/HelloWorld/pull/58)
+- [piyush97/HelloWorld #57](https://github.com/piyush97/HelloWorld/pull/57)
+- [Passok11/todo-list-node-cli #31](https://github.com/Passok11/todo-list-node-cli/pull/31)
+- [jonschlinkert/randomatic #19](https://github.com/jonschlinkert/randomatic/pull/19)
+- [vot/dbclone #14](https://github.com/vot/dbclone/pull/14)
+- [cmangos/mangos-tbc #250](https://github.com/cmangos/mangos-tbc/pull/250)
+- [piyush97/HelloWorld #24](https://github.com/piyush97/HelloWorld/pull/24)
+- [DipanshKhandelwal/my-zodiac-sign #13](https://github.com/DipanshKhandelwal/my-zodiac-sign/pull/13)
+- [librecores/librecores-web #283](https://github.com/librecores/librecores-web/pull/283)
+
+## Blog Posts (46)
+
+- https://stuartcrust.com/2018/10/hacktoberfest---week-one/
+- https://medium.com/@alexei.kozachenko/swifterswift-a7db62e51e76
+- https://wordpress.com/post/bhung6494.wordpress.com/44
+- https://wordpress.com/post/shawnblog1.wordpress.com/107
+- https://danosd600.wordpress.com/2018/10/05/release0-2_part1/
+- https://minyingchen.wordpress.com/2018/10/10/release-0-2-hacktoberfest/
+- https://joshuablog716228556.wordpress.com/2018/10/09/release-0-2-hacktoberfest/
+- https://markkrutikopensource.wordpress.com/2018/10/09/writing-my-first-readme-file/
+- https://medium.com/merag/hacktoberfest-week-one-aace34f39742
+- https://muchtarosd600.home.blog/2018/10/09/hacktoberfest-part-1-osd600/
+- https://pengqu.wordpress.com/2018/10/08/hacktoberfest-at-seneca-2018-1/
+- http://compileofcrap.com/OSD600/3.html
+- http://compileofcrap.com/OSD600/4.html
+- https://victorkubrak.blogspot.com/2018/10/hacktoberfest-first-pull-request.html
+- https://opensource-topics.blogspot.com/2018/10/open-source-contribution-release-021.html
+- https://brettlarney.wordpress.com/2018/10/07/hacktoberfest-2018/
+- https://coreyjames.me/2018/10/06/hacktoberfest-week-one/
+- https://danielsopensource.blogspot.com/2018/10/hacktober-i.html
+- https://deepanjalidotblog.wordpress.com/2018/10/05/hacktoberfest-pr-1/
+- https://deepanjalidotblog.wordpress.com/2018/10/06/hacktoberfest-2018-pr-2/
+- http://ruihui.me/OSD600/2018/10/08/first-pull-request-for-hacktoberfest/
+- https://azouprogrammingblog.wordpress.com/2018/10/04/release-0-2-blog-post-1/
+- https://azouprogrammingblog.wordpress.com/2018/10/06/release-0-2-blog-post-2/
+- https://jespiritutech.wordpress.com/2018/10/08/first-hacktoberfest-contribution/
+- https://medium.com/@jrkong.hfd/first-hacktoberfest-pr-from-docker-to-a-readme-edit-8d6821b2f628
+- https://karansandhuwebsite.wordpress.com/
+- https://mordax.io/blog/seneca/2018/10/10/Solidity-Docs.html
+- https://medium.com/@matt.t.phan/hacktoberfest-pt-1-bffd4f5a716e
+- https://wordpress.com/post/hudascoding.wordpress.com/75
+- https://pynnl.blogspot.com/2018/10/hacktoberfest-first-5-pr-part-1.html
+- http://robplusplus.blogspot.com/2018/10/hacktoberfest-pr-1.html
+- https://medium.com/seanprashad/hacktoberfest-part-1-ea90f141d61b
+- https://shawnsblog447499268.wordpress.com/2018/10/10/dps909-0-2-release-pull-request-1/
+- https://whilenotzero.wordpress.com/2018/10/08/hacktoberfest-pt-1/
+- https://stephentopensource.wordpress.com/2018/10/08/release-0-2-1/
+- https://xdtruong.blogspot.com/2018/10/osd600release02hactoberfectpost1.html
+- https://thanhnguyen105337150.wordpress.com/2018/10/09/osd600-release-0-2-part-1/
+- http://shavedyak.blogspot.com/2018/10/working-with-neovim.html
+- https://yevseytsevdps909.blogspot.com/2018/10/it-is-beginning-of-hacktoberfest-in.html
+- https://ywpark1.wordpress.com/2018/10/05/hacktoberfest-contribution-1/
+- https://yuechengdotblog.wordpress.com/2018/10/09/hacktoberfest-my-first-pull-request/
+- https://operationaladam.wordpress.com/2018/10/02/hacktoberfest-diving-into-spooky-code/
+- https://operationaladam.wordpress.com/2018/10/09/hacktoberfest-update/
+- https://wangpansopensource.wordpress.com/2018/10/10/osd600-release-0-2-part-1/
+- https://joshuajadulco.wordpress.com/2018/10/09/1st-pr-for-hacktoberfest-2018/
+- https://michaeloveralldps909.blogspot.com/2018/10/sometimes-setup-is-harder-than-change.html

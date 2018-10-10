@@ -2,6 +2,10 @@
 
 Open Source students in OSD600 and DPS909 are participating in [Hacktoberfest 2018](https://hacktoberfest.digitalocean.com/) for their Release 0.2. This is our tracking repo, welcome!
 
+## Weekly Summaries
+
+- [Week 1](data/week01.md)
+
 ## Requirements and Instructions
 
 During October 2018, students are required to complete **5 Pull Requests** to open source projects hosted on GitHub. Your final submission is due by October 31, 2018.
