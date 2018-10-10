@@ -1,5 +1,29 @@
 # Hacktoberfest at Seneca: Week 1 Summary
 
+## Stats
+
+- Total of 286,781 LOC added, 3,791 LOC removed
+- Average of 55 LOC added, 63 LOC removed
+- 35 Pull Requests were merged (56%)
+- Languages used:
+  - Rust
+  - Swift
+  - Scala
+  - JavaScript
+  - React
+  - node.js
+  - Markdown
+  - PHP
+  - Lua
+  - Localization
+  - C#
+  - C++
+  - Go
+  - Ruby
+  - Python
+  - HTML, CSS
+  - Solidity (Etherium)
+
 ## Pull Requests (62)
 
 - [lk-geimfari/awesomo #125](https://github.com/lk-geimfari/awesomo/pull/125)
@@ -64,30 +88,6 @@
 - [piyush97/HelloWorld #24](https://github.com/piyush97/HelloWorld/pull/24)
 - [DipanshKhandelwal/my-zodiac-sign #13](https://github.com/DipanshKhandelwal/my-zodiac-sign/pull/13)
 - [librecores/librecores-web #283](https://github.com/librecores/librecores-web/pull/283)
-
-## Stats
-
-- Total of 286,781 LOC added, 3,791 LOC removed
-- Average of 55 LOC added, 63 LOC removed
-- 35 Pull Requests were merged (56%)
-- Languages used:
-  - Rust
-  - Swift
-  - Scala
-  - JavaScript
-  - React
-  - node.js
-  - Markdown
-  - PHP
-  - Lua
-  - Localization
-  - C#
-  - C++
-  - Go
-  - Ruby
-  - Python
-  - HTML, CSS
-  - Solidity (Etherium)
 
 ## Blog Posts (46)
 
