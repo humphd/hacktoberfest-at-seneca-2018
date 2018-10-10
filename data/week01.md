@@ -65,6 +65,30 @@
 - [DipanshKhandelwal/my-zodiac-sign #13](https://github.com/DipanshKhandelwal/my-zodiac-sign/pull/13)
 - [librecores/librecores-web #283](https://github.com/librecores/librecores-web/pull/283)
 
+## Stats
+
+- Total of 286,781 LOC added, 3,791 LOC removed
+- Average of 55 LOC added, 63 LOC removed
+- 35 Pull Requests were merged (56%)
+- Languages used:
+  - Rust
+  - Swift
+  - Scala
+  - JavaScript
+  - React
+  - node.js
+  - Markdown
+  - PHP
+  - Lua
+  - Localization
+  - C#
+  - C++
+  - Go
+  - Ruby
+  - Python
+  - HTML, CSS
+  - Solidity (Etherium)
+
 ## Blog Posts (46)
 
 - https://stuartcrust.com/2018/10/hacktoberfest---week-one/
@@ -113,3 +137,76 @@
 - https://wangpansopensource.wordpress.com/2018/10/10/osd600-release-0-2-part-1/
 - https://joshuajadulco.wordpress.com/2018/10/09/1st-pr-for-hacktoberfest-2018/
 - https://michaeloveralldps909.blogspot.com/2018/10/sometimes-setup-is-harder-than-change.html
+
+### Blog Quotes
+
+#### Different Approaches Students Took
+
+> "my goal for this month is to contribute to at least two projects that use Rust"
+
+> "for the first contribution, I wanted to do something different and show you that a contribution does not have to consist of code to be useful to the open source community."
+
+> "I am good at JavaScript, so i choose to looking for issue is related it."
+
+> "I decided to play to my strengths, and look at projects that had issues recommended for beginners, as well as developed in python"
+
+> "Having enjoyed working with Go during my summer internship, I was like “Hey, let’s look for a smaller project that uses Go!"
+
+> "I got stuck at many programs when I started programming. So I found it very helpful for beginners to find a repository that explains various algorithms and shows them how it actually works. This is the reason I chose to contribute to this project."
+
+> "I’m in a position where I have to learn C# for another project in another course, so the first thing I did was search up issues on Github that were labeled ‘hacktoberfest’ and uses the C# language."
+
+> "for this first pull, I wanted to tackle on something simple, so I decided to work on localization."
+
+> "For my first pull request, I decided to do something that was not code related because I thought that it would be a first easy task. As a matter of fact, it was not as easy of a task because I had to learn how to use markdown and it took me a long time to create a README file. I spent 3 hours writing an entire document for the open-source project."
+
+> "For my initial pull request I wanted to look for something related to Docker."
+
+> "My first pull request was on a new language I have not worked with before called Ruby...I chose to work with Ruby because it was a chance to work with something that I have not worked with before."
+
+> "The first step was a little overwhelming to be perfectly honest. I wasn’t and I’m still not 100% sure where my interest lies. Luckily for me and thankfully for this event, there’s a ton of issues you can find on GitHub (The Hacktoberfest site has a bunch of repositories listed too). With issues having labels, not only is there a “Good first issue”, there’s also “Hacktoberfest” that you can search for (label:Hacktoberfest, label:“Good first issue”)."
+
+> "My goal this month is to try different things so I can get a better idea of my own preferences because I found when initially looking for issues to work on I didn’t have any preferences to help narrow down my search."
+
+> "Since I am still a newbie, and I am still learning as much as I can from Github. I decided to start my Hacktoberfest slow, to get my ball rolling, and build up my confidence before getting into more complicated code."
+
+> "Given a great amount of freedom, it was difficult for me to choose what project to begin working on. Not only do I want to pick a project that I think is worth contributing to, but it also needs to be something where I can find an issue that is small enough for me to jump into relatively quickly. I’m not against dabbling in languages I don’t know very well, but I would prefer to do it with good reason."
+
+> "With my current skillset I am pretty confident with c/c++, html/js/css, c# so that was primarily what I was looking into."
+
+> "I started very small. Between other school work and the Thanksgiving weekend I did not have much time to tackle a large contribution. I decided to look at a tool for a game I am very interested in"
+
+#### The reality of diving in (it's scary)
+
+> "In the beginning, I am afraid to find the issue that people post the issue on GitHub."
+
+> "I spent a lot of time for the first time to create pull request for Hacktoberfest"
+
+> "I learned that it’s not going to be easy to contribute to a project right away, and thats okay...it's important to not get overwhelmed with what you're working on, and continue 1 step at a time, and ask questions when you need help. Be confident, if I can do it, you can too."
+
+> "Everyone posting here is a genius, and it's very daunting...My takeaway from this was that there are a lot of projects out there with different skill levels and that you have to be confident that you CAN do it."
+
+> "Fixing the bug wasn't as easy as I thought it would be - the solution wasn't too straightforward - but with the help of the existing code as reference, I was able to find a solution. When working on a project at school, the instructions are laid out for you. You know which functions to work on, what they should do, and what they shouldn't do. Working on OSS was a completely different experience. School work is straightforward and because of that I'd be able to jump straight in and code. Being used to coding in this way made my first day trying to fix the bug very frustrating. After a day of trying to fix functions that looked as if they could be related to the bug without success, I decided to look at it again the next day.
+> This time, I decided to take my time. I removed all of my edits to the code and spent around an hour just reading the code and drawing out the dependencies. This finally allowed me to find a solution."
+
+> "Although I had no understanding of OpenGL or how texture rendering even worked I chipped away at it for a few days, looking at each function call, traversing files just to find some clue on how I could implement the fix. I found the line that used an image from file and the line that loaded it. All I had to do was change that and be done. So I messed around with it and got it working!"
+
+> "As I am looking at the C code, a procedural language, currently, I am daunted by the sheer size of some of the function, and how different functions are interacting with each other. This is surprisingly different from my experience with C++, or Object Oriented Programming in general."
+
+#### Community
+
+> "One of the developers...was kind enough to answer some of my questions in an issue thread, and point me in the right direction. Some of the learning curves I had in my journey to creating this pull request were; using a virtual environment, building/compiling the project, installing and running dependencies in virtual environment, and understanding the role of the Logger object in the code."
+
+> "The best thing I learned so far is that I cannot be afraid to ask. Take the initiative to ask questions; ask how to do something; ask for clarification; ask for help; etc."
+
+> "Someone did do a pull request for the issue I requested to work on."
+
+> "The project owner brought up some valid criticism in my pull request."
+
+#### Lessons
+
+> "cleaning and tidying repo's is just as important as fixing bugs, or making enhancements."
+
+> "one is not limited to just code contributions. Programming projects also require people to write documentation, tutorials, translations of their material to other languages, and etc."
+
+> "After completing this pull request, I feel that I am starting to become more comfortable with GitHub and Open Source in general. It was a bit intimidating at first since GitHub is relatively new to me, and there are so many languages out there that I have not worked with so working on an issue that was created by someone that I don’t know, in a language in which I am inexperienced was a bit terrifying. But after studying the code and doing the research I don’t exactly feel intimidated to take on new tasks in the future and I am confident that I can complete this release on time."
