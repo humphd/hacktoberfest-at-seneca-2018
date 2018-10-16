@@ -5,6 +5,7 @@ Open Source students in OSD600 and DPS909 are participating in [Hacktoberfest 20
 ## Weekly Summaries
 
 - [Week 1](data/week01.md)
+- [Week 2](data/week02.md)
 
 ## Requirements and Instructions
 
