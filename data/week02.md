@@ -2,10 +2,9 @@
 
 ## Stats
 
-- Total of 286,781 LOC added, 3,791 LOC removed
-- Average of 55 LOC added, 63 LOC removed
-- 35 Pull Requests were merged (56%)
-
+- Total of 6,808 LOC added, 757 LOC removed
+- Average of 141 LOC added, 15 LOC removed
+- 18 Pull Requests were merged (36%)
 - Total Pull Requests so far in October: 111
 
 ## Pull Requests (49)
@@ -118,3 +117,37 @@
 - https://mycbprogramming.wordpress.com/2018/10/10/hactoberfest-part-1-osd600/
 - https://mycbprogramming.wordpress.com/2018/10/15/hactoberfest-part-2-osd-600/
 - http://osd600rhayes2.blogspot.com/2018/10/rsa-encryption-on-strings.html
+
+## Blog Quotes
+
+On finding new issues to work on, see [Joshua's blog post](https://joshuablog716228556.wordpress.com/2018/10/14/hacktoberfest-week-2/)
+
+### People "scratching their own itch," finding projects that fit who they are
+
+> "I want to add more extension methods that I have been using in my own projects."
+
+> "My contribution for this week had a bit more self-interest involved; I contributed a change to...the Hugo blog theme I use for this blog."
+
+> "It was a very cool process to contribute to and work on a project that I have personally used in the past, and made this pull request stand out to me."
+
+> "If Me is a website that fosters a community where people can share stories and experiences with regards to mental health. It’s something that hits close to home for me and its something I would be proud to be able to contribute to.
+
+> "While I have used various open source programs in daily bases, I have never imagined to be the one contributing to it. It has been the reason why I got interested in computers...for my second PR, I decided to work on one of my favorite game:[Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)."
+
+### Observations
+
+> "With this second pull request, I have learnt that sometimes although a project might look scary and overwhelming at first, it can be quite simple to work on. Taking that time to try the project, read the documentation of frameworks or dependencies your project make use of can be very helpful. I really had fun working on this project and I find it very interesting, maybe I return to it in the future."
+
+> "Unlike my previous work that took me a couple days to fix, this one took me less that 10 minutes. It was so closely linked to what I previously worked on that I immediately knew what the problem was and how to fix it...When I first sent in the pull request, I undervalued the work a lot. I didn't think that a commit this small was anything to be proud of. But then I realized that this fix that took me less than 10 minutes to fix was only possible because of my past commit that took over 2 days to fix. If I tried to fix this bug without having fixed the previous bug, I'm sure it would have taken me much longer to figure out."
+
+> "It feels nice to start contributing to a project that is in beginning stages because it feels like your contribution is more impactful than contributing to a massive 10 year old project with thousands of contributors."
+
+> "There was one negative thing I noticed with a project like this: too much freedom can cause a lot of disorder in development. There were a few rules set in place for contributors of this project"
+
+> "Fixing bugs in your own code is sometimes difficult, even though you know how your code works. But fixing bugs in someone else's code is always more difficult: you have to find out how it works. Different styling and programming techniques slow down debugging. So, I think it would be more rational if a person that wrote a code fixed bugs himself and other people just wrote tests."
+
+> "After solving this issue I felt very proud. Not only did I contribute to a project I cared about, I was able to tackle an issue that I had almost no knowledge of going in, and was able to solve it without giving up. I had never worked with React before, and was scared that I would not be able to understand anything. In actuality it was mostly similar to JavaScript and I could follow along pretty well. I also think I did a good job of quickly finding the issue in the codebase and isolating the part of code where the issue was located."
+
+> "Now I can say I have worked with people from around the world!"
+
+> "After I completed my pull request, I feel very proud of myself because I have learned a new language which I did not think I was able to do at the beginning of this."
